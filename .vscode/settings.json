@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "JavaClass"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
